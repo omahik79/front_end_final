@@ -1,0 +1,67 @@
+img {
+   width: 50%;
+  height: 750px;
+}
+.title h2 {
+    font-size: 21px;
+    letter-spacing: 4px;
+    line-height: 32px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    position: relative;
+    display: inline-block;
+}
+title {
+    text-align: center;
+    margin-bottom: 52px;
+}
+.title p {
+    font-family: 'Volkhov', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+    margin-bottom: 70px;
+    letter-spacing: .11rem;
+    line-height: 25px;
+}
+.about-intro {
+    margin-top: 45px;
+}
+
+.about-intro h3 {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    margin: 0;
+    text-transform: uppercase;
+}
+.about-intro h5 {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 12px 0;
+    color: white;
+}
+.about-intro p {
+    color: white;
+}
+.about-intro .divider {
+    display: block;
+    margin: 20px 0px;
+    width: 150px;
+    height: 2px;
+    background-color: #FF2B4A;
+}
+.about-intro .buttons {
+    padding-top: 14px;
+}
+body {
+ background-image: url("img2/6.jpg");
+
+}
